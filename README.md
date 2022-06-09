@@ -10,3 +10,5 @@ TORUN: Enter the filepath as a parameter from your pokernow log into the pokerst
 I wrote this program because I believe it could give a competitive edge by understanding how players usually act. 
 
 I shared this program with everyone I play with to avoid controversy. 
+
+NOTE: We do not play with real money as unregistered gambling is illegal, this is for entertainment purposes only.
